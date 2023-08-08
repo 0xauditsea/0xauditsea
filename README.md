@@ -34,7 +34,7 @@
   <tbody>
     <tr>
       <td align="center">
-        <img src="icons/arrakis.webp" height="50" style="border-radius: 100%;">
+        <img src="icons/arrakis.webp" width="50" height="50" style="border-radius: 100%;">
       </td>
       <td align="center">Arrakis Finance</td>
       <td align="center">June 2023</td>
