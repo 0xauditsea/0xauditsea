@@ -41,5 +41,14 @@
       <td align="center">Sherlock</td>
       <td align="center">14th</td>
     </tr>
+    <tr>
+      <td align="center">
+        <img src="icons/Index.webp" width="50" height="50" style="border-radius: 100%;">
+      </td>
+      <td align="center">Index Coop - Update</td>
+      <td align="center">July 2023</td>
+      <td align="center">Sherlock</td>
+      <td align="center">4th</td>
+    </tr>
   </tbody>
 </table>
