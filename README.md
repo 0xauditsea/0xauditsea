@@ -34,7 +34,16 @@
   <tbody>
     <tr>
       <td align="center">
-        <img src="icons/Index.webp" width="50" height="50" style="border-radius: 100%;">
+        <img src="icons/tokensoft.webp" style="border-radius: 100px; min-width:50px; min-height: 50px; max-width: 50px; max-height: 50px;">
+      </td>
+      <td align="center">Tokensoft</td>
+      <td align="center">July 2023</td>
+      <td align="center">Sherlock</td>
+      <td align="center">4th</td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="icons/Index.webp" style="border-radius: 100px; min-width:50px; min-height: 50px; max-width: 50px; max-height: 50px;">
       </td>
       <td align="center">Index Coop - Update</td>
       <td align="center">July 2023</td>
@@ -43,7 +52,7 @@
     </tr>
     <tr>
       <td align="center">
-        <img src="icons/arrakis.webp" width="50" height="50" style="border-radius: 100%;">
+        <img src="icons/arrakis.webp" style="border-radius: 100px; min-width:50px; min-height: 50px; max-width: 50px; max-height: 50px;">
       </td>
       <td align="center">Arrakis Finance</td>
       <td align="center">June 2023</td>
