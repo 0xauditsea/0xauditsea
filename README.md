@@ -34,7 +34,7 @@
   <tbody>
     <tr>
       <td align="center">
-        <img src="icons/tokensoft.webp" style="border-radius: 100px; min-width:50px; min-height: 50px; max-width: 50px; max-height: 50px;">
+        <img src="icons/tangible.jpg" style="border-radius: 100px; min-width:50px; min-height: 50px; max-width: 50px; max-height: 50px;">
       </td>
       <td align="center">Tangible</td>
       <td align="center">August 2023</td>
