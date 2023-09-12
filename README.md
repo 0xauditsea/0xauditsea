@@ -36,6 +36,15 @@
       <td align="center">
         <img src="icons/tokensoft.webp" style="border-radius: 100px; min-width:50px; min-height: 50px; max-width: 50px; max-height: 50px;">
       </td>
+      <td align="center">Tangible</td>
+      <td align="center">August 2023</td>
+      <td align="center">Code4rena</td>
+      <td align="center">11th</td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="icons/tokensoft.webp" style="border-radius: 100px; min-width:50px; min-height: 50px; max-width: 50px; max-height: 50px;">
+      </td>
       <td align="center">Tokensoft</td>
       <td align="center">July 2023</td>
       <td align="center">Sherlock</td>
